@@ -14,3 +14,4 @@
 
 ## Contributions
 - Contributions are welcome! If you find a bug, have a feature request, or want to improve the script, feel free to open an issue or submit a pull request.
+

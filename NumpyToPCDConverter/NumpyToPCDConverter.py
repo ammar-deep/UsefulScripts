@@ -1,5 +1,3 @@
-# Usage python NumpyToPCDConverter.py --numpy-dir numpy_files --output-dir pcd_files
-
 import argparse
 from glob import glob
 import open3d as o3d
